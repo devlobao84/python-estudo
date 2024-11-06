@@ -13,7 +13,7 @@ print(f"Conteúdo da variável dado, depois da multiplicação: {dado}")
 dado /=1
 print(f"Conteúdo da variável dado, depois da divisão: {dado}") 
 
-dado +=3
+dado +=4
 print(f"Conteúdo da variável dado, depois da divisão: {dado}") 
 
 
