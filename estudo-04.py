@@ -11,7 +11,12 @@ dado *=1
 print(f"Conteúdo da variável dado, depois da multiplicação: {dado}") 
 
 dado /=1
-print(f"Conteúdo da variável dado, deposi da divisão: {dado}") 
+print(f"Conteúdo da variável dado, depois da divisão: {dado}") 
 
-dado +=3
-print(f"Conteúdo da variável dado, deposi da divisão: {dado}") 
+dado +=4
+print(f"Conteúdo da variável dado, depois da divisão: {dado}") 
+
+
+dado +=5
+print(f"Conteúdo da variável dado, depois da divisão: {dado}") 
+
