@@ -20,3 +20,8 @@ print(f"Conteúdo da variável dado, depois da divisão: {dado}")
 dado +=5
 print(f"Conteúdo da variável dado, depois da divisão: {dado}") 
 
+"""corrigindo código"""
+
+
+
+
